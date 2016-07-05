@@ -1,0 +1,14 @@
+layout_spectrum: 0.15613468107767403
+typography_spectrum: 0.9892355992924422
+color:
+  brandStrength: 0.811066921800375
+  lightness: 0.7862532753497362
+  saturation: 0.12355781137011945
+  rhythmicContrast: 0.8302969115320593
+  brandColors:
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
+name: TTE
