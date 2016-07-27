@@ -1,4 +1,3 @@
-layout_spectrum: 0.15613468107767403
 typography_spectrum: 0.9892355992924422
 color:
   brandStrength: 0.811066921800375
@@ -11,6 +10,11 @@ color:
     - '#F4CB89'
     - '#588C8C'
     - '#011C26'
-name: TTE
+layout_spectrum: 0.15613468107767403
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/686b7ee9-27be-4287-9d93-82527f705f35.jpg
+name: Tea Time Express
+navigation:
+  - url: 'https://www.facebook.com/SaveTeaTimeExpress/'
+    name: Facebook
+    type: external
