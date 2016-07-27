@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-07-27T14:39:15.101Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f26fac3a-a6e6-4b7c-930a-d6a036795488.jpg
+datePublished: '2016-07-27T14:41:38.677Z'
 author: []
 via: {}
-dateModified: '2016-07-27T14:25:15.085Z'
+dateModified: '2016-07-27T14:41:37.662Z'
 title: ''
 publisher: {}
 description: >-
@@ -12,17 +10,16 @@ description: >-
   cakes when it was establsished in Dublin in 1938. The original bakery in
   Usher’s Quay was famous for its daily delivery service by boys on High Nellies
   with side cars. The cries of the boys as they delivered an array of delicioius
-  cakes gave the company its distinctive name, the "Tea Time Express" We have
-  always been proud of our dedicated team of bakers who hand finish every
-  freshly baked cake. We have built up a loyal customer following over its 76
-  plus year history and are looking forward to delivering our cakes to a whole
-  new generation. 2016 will see a dynamic relaunch of Tea Time Express.
-starred: false
+  cakes gave the company its distinctive name, the "Tea Time Express"We have
+  always been proud of our dedicated team of bakers who hand finish everyfreshly
+  baked cake. We have built up a loyal customer following over its 76 plus
+  yearhistory and are looking forward to delivering our cakes to a whole new
+  generation.2016 will see a dynamic relaunch of Tea Time Express.
 sourcePath: >-
   _posts/2016-07-27-tea-time-express-is-an-iconic-irish-bakery-brand-which-bega.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: tea-time-express-is-an-iconic-irish-bakery-brand-which-bega/index.html
 _type: MediaObject
 
 ---
